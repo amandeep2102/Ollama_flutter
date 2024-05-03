@@ -1,8 +1,5 @@
 # ollama_flutter_app
 
-Ollama + Flutter for Affordable ChatGPT App
-
-https://kush373.medium.com/integrating-ollamas-apis-with-flutter-building-a-conversational-ai-app-local-chatgpt-flutter-42346513d033
 
 # demo
 
